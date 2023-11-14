@@ -1,0 +1,68 @@
+caption {
+    color: blue;
+}
+
+th {
+    background-color: aquamarine;
+}
+
+td {
+    background-color: darkgreen;
+}
+
+label {
+    background-color: brown;
+    color: aqua;
+
+}
+
+.username {
+    background-color: darkgreen;
+    border-style: solid;
+    border-width: medium;
+    line-height: 20px;
+    border-width: 10px;
+    padding: 70px 30px 10px 10px;
+
+}
+
+.password {
+    border-color: red;
+}
+
+h1 {
+    /* color: transparent;*/
+    letter-spacing: 5px;
+    line-height: 50px;
+    text-shadow: 2px 2px 5px blue, 10px 2px 5px red;
+    text-decoration-line: overline underline line-through;
+    text-align: end;
+}
+
+* {
+    padding: 0px;
+
+}
+
+.box {
+    border: 3px solid yellow;
+    width: 100px;
+    height: 100px;
+    float: left;
+}
+
+.boxred {
+    background-color: red;
+    
+}
+
+.boxgreen {
+    background-color: green;
+}
+
+.boxblue {
+    background-color: blue
+     
+outline-width
+: 5px;
+}
